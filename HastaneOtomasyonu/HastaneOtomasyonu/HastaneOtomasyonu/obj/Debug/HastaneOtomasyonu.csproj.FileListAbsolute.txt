@@ -1,0 +1,50 @@
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Form1.resources
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\SAVERİKSA\Source\Repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Form1.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.doktor.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Hastakabul.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yönetici.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.yöneticibilgiler.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.hastabilgileri.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.iletişim.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.doktorlar.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.randevu.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UserControl1.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.giris.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.doktor.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.doktorlar.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Form1.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.giris.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.hastabilgileri.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Hastakabul.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.iletişim.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.randevu.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UserControl1.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yönetici.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.yöneticibilgiler.resources
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+D:\Dosyalar Truva Atı tarafından gizlenmiş\Yazılım\Projeler\HastaneOtomasyonu\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
